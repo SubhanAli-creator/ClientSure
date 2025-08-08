@@ -1,5 +1,5 @@
 import { type NextRequest, NextResponse } from "next/server"
-// @ts-ignore
+
 import nodemailer from "nodemailer"
 
 
