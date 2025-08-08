@@ -13,7 +13,7 @@ export default function Careers() {
     <section className="py-20 bg-gradient-to-r from-blue-600 to-purple-600 text-white">
       <div className="container mx-auto px-4">
         <div className="max-w-4xl mx-auto text-center">
-          <h2 className="text-3xl md:text-4xl font-bold mb-6">"Launch in 48 Hours" Package</h2>
+          <h2 className="text-3xl md:text-4xl font-bold mb-6">&quot;Launch in 48 Hours&quot; Package</h2>
           <p className="text-xl mb-12 opacity-90">
             Be part of our company that values innovation, growth, and making a real impact in the business world.
           </p>
