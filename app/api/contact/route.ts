@@ -1,5 +1,8 @@
 import { type NextRequest, NextResponse } from "next/server"
+// @ts-ignore
 import nodemailer from "nodemailer"
+
+
 
 // Create transporter for sending emails
 const transporter = nodemailer.createTransport({
